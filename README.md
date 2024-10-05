@@ -24,7 +24,7 @@ SDML: Es un lenguaje de marcas que se utiliza para crear documentos estructurado
    
 El HyperText Markup Lenguage, es un lenguake de marcas que se utiliza para crear páginas web. Se podria definir como el plano que define la estructura y el contenido de la página web.
 
-´´´
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +37,7 @@ El HyperText Markup Lenguage, es un lenguake de marcas que se utiliza para crear
     
 </body>
 </html>
-´´´
+```
 
 5. ¿Qué es CSS?
    
