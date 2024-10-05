@@ -16,11 +16,13 @@ Es un software que se encarga de almacenar y entregar los archivos de un sitio w
 Son sistemas de codificación que se utilizan para dar formato y estructura a un texto.
 
 Conozco HTML, XML y SGML
-HTML: El lenguaje de marcas mas comun en las paguinas web y por lo tanto el mas utilizado.
-XML: El lenguaje de marcas mas utilizado para crear documentos estructurados y flexibles.
-SDML: Es un lenguaje de marcas que se utiliza para crear documentos estructurados y flexibles, pero no tan común como XML.
+| Lengiajes | Descripcion |
+|:-----------:|:--------------:|
+| HTML | El lenguaje de marcas mas comun en las paguinas web y por lo tanto el mas utilizado.|
+| XML  | El lenguaje de marcas mas utilizado para crear documentos estructurados y flexibles.|
+| SDML | Es un lenguaje de marcas que se utiliza para crear documentos estructurados y flexibles, pero no tan común como XML.|
 
-4. ¿Qué es HTML? ¿Sabes cómo se estructura?
+1. ¿Qué es HTML? ¿Sabes cómo se estructura?
    
 El HyperText Markup Lenguage, es un lenguake de marcas que se utiliza para crear páginas web. Se podria definir como el plano que define la estructura y el contenido de la página web.
 
