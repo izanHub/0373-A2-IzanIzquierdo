@@ -48,4 +48,4 @@ El Cascading Style Sheets, es un lenguaje de estilo que se utiliza para dar form
 Primero el usuario ingresa la dirección de la página a la cual quiere acceder en la barra de direcciones del navegador. 
 Luego el navegador envía una solicitud al servidor web para que le envíe la página solicitada, tras esto el servidor envia una respuesta con la página solicitada, el navegador recibe la respuesta y la interpreta, finalmente el navegador muestra la página solicitada en la pantalla del usuario.
 
-![Esquema de peticiones HTML ]()
+![Esquema de peticiones HTML ](https://github.com/izanHub/0373-A2-IzanIzquierdo/blob/main/img/EsquemaDePeticionesHTML.png)
